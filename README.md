@@ -1,15 +1,17 @@
 # Web-Template
-About the project 
+
+About the project
 
 ## Some Features
 
-- Feature 0 
+- Feature 0
 - Feature 1
 - Feature 2
 
-
 # Screenshots
+
 https://mockuphone.com/device/google-pixel4-clearlywhite
+
 https://mockuphone.com/device/macbookgrey
 
 ## Pull Requests
@@ -25,12 +27,12 @@ I welcome and encourage all pull requests. Here are some basic rules to follow t
 7. Have fun!<br>
 
 ## 👍 Contribution
+
 1. Fork it
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -m 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
 5. Create new Pull Request
-
 
 ### Show some :heart: and star the repository to support the project
 
